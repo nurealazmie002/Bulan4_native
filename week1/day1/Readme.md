@@ -1,3 +1,5 @@
+### Disclaimer : ini awalnya saya ketik sendiri pake bahasa saya trus saya pakein AI biar rapi eh, malah jadi bagus gini, :D
+
 ### 1. Jelaskan definisi Mobile App Development sesuai pemahaman anda beserta fokus utama dan output teknisnya!
 
 **Mobile App Development** adalah proses menyeluruh (end-to-end) untuk merancang, membangun, menguji, merilis, dan memelihara aplikasi yang berjalan di perangkat seluler seperti smartphone dan tablet.
